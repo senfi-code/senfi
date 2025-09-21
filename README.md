@@ -21,7 +21,7 @@
 
 ## 📬 Контакты  
 - 💬 Telegram: [@senfi_js](https://t.me/senfi_js)  
-- ✉️ Почта: senfi.kill@example.com  
+- ✉️ Почта: senfi.kill@gmail.com  
 - 🌐 GitHub: [github.com/senfi-code](https://github.com/senfi-code)  
 
 ---
